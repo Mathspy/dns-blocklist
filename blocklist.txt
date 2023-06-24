@@ -1,0 +1,8 @@
+! Title: Mathspy - Blocklist
+! Expires: 1 day
+! Issue tracker: https://github.com/Mathspy/dns-blocklist
+! Homepage: https://github.com/Mathspy/dns-blocklist
+! Description: A few things that fell through my DNS blocklist I am blocking manually
+! Version: 20230624
+
+||widgets.outbrain.com^
